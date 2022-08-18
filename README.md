@@ -1,2 +1,1 @@
-# HTMLBase
-Created with CodeSandbox
+Ускоренный курс CSS за 30 минут
